@@ -103,7 +103,7 @@
 
 - 運営している人材紹介サイトの新規求人獲得のために、厚労省による介護事業所検索サイトのクローリングデータと自社の事業所データをルールベースで突合し、自社で掲載がない事業所を検出する仕組みを開発しました。
 
-#### [『カイポケ』フルリニューアルプロジェクト](https://careers.bm-sms.co.jp/engineer/kaipoke-renewal)（アプリケーションエンジニアとして）
+#### （アプリケーションエンジニアとして）[『カイポケ』フルリニューアルプロジェクト](https://careers.bm-sms.co.jp/engineer/kaipoke-renewal)
 
 - 担当範囲：バックエンド（Kotlin, Spring Boot）、フロントエンド（TypeScript, Next.js）、インフラ（AWS）
 
