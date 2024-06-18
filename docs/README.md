@@ -136,6 +136,7 @@
 - [機械学習による自分好みの DLsite 新作通知システムの開発](https://qiita.com/oddgai/items/31ae9deb172f61ffd597)
 - [M-1 グランプリのクローリングデータを使った仮説検証](https://note.com/oddgai/n/n3c3b067e3d9e)
 - [Flet でチャプター検出できる動画編集アプリを作りました](https://qiita.com/oddgai/items/037d81d1acd2f8d24513)
+- [府中市保育園マップ](https://fuchu-hoiku-map-37wp3gnp6a-an.a.run.app/)
 
 ### 学生時代
 
