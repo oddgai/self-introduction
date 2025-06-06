@@ -68,8 +68,8 @@
 
 - 担当範囲：APIの設計・開発・リリース
 
-- Cloud Run上でfaster-whisperを動かすAPIを開発しました。設計は単純ですが、同じことをやっている事例が見つからなかったためやや苦労しました。
-- [Cloud Run の GPU で faster-whisper を動かす](https://zenn.dev/oddgai/articles/5179ee74e4e174)
+- Cloud Run上でfaster-whisperを動かすAPIを開発しました。設計は単純ですが、同じことをやっている事例が見つからずやや苦労したので、やり方をブログに残しておきました。
+  - [Cloud Run の GPU で faster-whisper を動かす](https://zenn.dev/oddgai/articles/5179ee74e4e174)
 
 #### Embeddingによる類似アイテム検索API開発、その周辺のパイプライン構築
 
